@@ -6,8 +6,9 @@
 
 **Name** : Sahatsawat Hiranpetch
 
-> King mongkut's institude of technology ladkrabang
+> [King mongkut's institude of technology ladkrabang][website]
 
 ```
-    print("hello world")
+    print("Hello Ladkrabang")
 ```
+[website]: https://www.kmitl.ac.th
